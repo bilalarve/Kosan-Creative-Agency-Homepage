@@ -2,7 +2,7 @@
 97E:\Belajar Coding\tailwind-test\node_modules\caniuse-lite\data\features\form-submit-attributes.js133079970890958717 0
 90E:\Belajar Coding\tailwind-test\node_modules\@parcel\optimizer-htmlnano\src\svgMappings.js133079970832359555 0
 74E:\Belajar Coding\tailwind-test\node_modules\entities\lib\encode-trie.d.ts133079970849705554 0
-44E:\Belajar Coding\tailwind-test\package.json133079982525978716 0
+44E:\Belajar Coding\tailwind-test\package.json133079984878826964 0
 90E:\Belajar Coding\tailwind-test\node_modules\htmlnano\lib\modules\removeEmptyAttributes.js133079970849369315 0
 71E:\Belajar Coding\tailwind-test\node_modules\yaml\browser\dist\index.js133079970834399377 0
 76E:\Belajar Coding\tailwind-test\node_modules\caniuse-lite\data\regions\KR.js133079970897701190 0
