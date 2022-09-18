@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Space Grotesk", sans-serif;
+}
+
+@layer base {
+  .animate-hover-scale {
+    @apply text-white/30 text-[24px] font-bold hover:text-white  transition-all duration-300 hover:text-[32px] hover:underline focus:text-white focus:text-[32px] focus:underline;
+  }
+  .flex-center {
+    @apply flex justify-center items-center;
+  }
+  h1 {
+    @apply text-9xl font-bold text-white leading-[100px];
+  }
+
+  .wrapper {
+    @apply max-w-[1140px] mx-auto px-4 w-full;
+  }
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #ff6b00;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
