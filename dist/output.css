@@ -425,16 +425,12 @@ video {
   font-size: 32px;
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
 }
 
 .animate-hover-scale:focus{
   font-size: 32px;
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
 }
 
 .flex-center{
@@ -640,21 +636,16 @@ h1{
   margin-right: auto;
 }
 
-.my-\[42px\]{
-  margin-top: 42px;
-  margin-bottom: 42px;
-}
-
-.mt-\[50px\]{
-  margin-top: 50px;
-}
-
 .mt-\[120px\]{
   margin-top: 120px;
 }
 
 .mb-\[42px\]{
   margin-bottom: 42px;
+}
+
+.mt-\[50px\]{
+  margin-top: 50px;
 }
 
 .flex{
@@ -687,10 +678,6 @@ h1{
 
 .w-full{
   width: 100%;
-}
-
-.w-0{
-  width: 0px;
 }
 
 .max-w-\[350px\]{
@@ -733,8 +720,21 @@ h1{
   gap: 2rem;
 }
 
+.gap-\[24px\]{
+  gap: 24px;
+}
+
 .whitespace-nowrap{
   white-space: nowrap;
+}
+
+.border-b-2{
+  border-bottom-width: 2px;
+}
+
+.border-white{
+  --tw-border-opacity: 1;
+  border-color: rgb(255 255 255 / var(--tw-border-opacity));
 }
 
 .bg-dark{
@@ -749,7 +749,7 @@ h1{
 
 .bg-primary{
   --tw-bg-opacity: 1;
-  background-color: rgb(255 107 0 / var(--tw-bg-opacity));
+  background-color: rgb(174 71 255 / var(--tw-bg-opacity));
 }
 
 .bg-\[\#262626\]{
@@ -757,12 +757,16 @@ h1{
   background-color: rgb(38 38 38 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\.\.\/assets\/bg-1\.svg\'\)\]{
-  background-image: url('../assets/bg-1.svg');
+.bg-\[url\(\'\.\.\/assets\/bg-3\.svg\'\)\]{
+  background-image: url('../assets/bg-3.svg');
 }
 
 .bg-\[url\(\'\.\.\/assets\/foto\.png\'\)\]{
   background-image: url('../assets/foto.png');
+}
+
+.bg-\[url\(\'\.\.\/assets\/bg-2\.svg\'\)\]{
+  background-image: url('../assets/bg-2.svg');
 }
 
 .bg-cover{
@@ -847,7 +851,7 @@ h1{
 
 .text-primary{
   --tw-text-opacity: 1;
-  color: rgb(255 107 0 / var(--tw-text-opacity));
+  color: rgb(174 71 255 / var(--tw-text-opacity));
 }
 
 .text-dark{
@@ -874,8 +878,12 @@ h1{
   transition-duration: 300ms;
 }
 
-.duration-700{
-  transition-duration: 700ms;
+.duration-500{
+  transition-duration: 500ms;
+}
+
+.ease-\[cubic-bezier\(\.82\2c \.1\2c \.42\2c \.99\)\]{
+  transition-timing-function: cubic-bezier(.82,.1,.42,.99);
 }
 
 * {
@@ -910,9 +918,14 @@ h1{
   width: 100%;
 }
 
+.hover\:border-primary:hover{
+  --tw-border-opacity: 1;
+  border-color: rgb(174 71 255 / var(--tw-border-opacity));
+}
+
 .hover\:bg-primary:hover{
   --tw-bg-opacity: 1;
-  background-color: rgb(255 107 0 / var(--tw-bg-opacity));
+  background-color: rgb(174 71 255 / var(--tw-bg-opacity));
 }
 
 .hover\:px-\[34px\]:hover{

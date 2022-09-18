@@ -10,7 +10,7 @@
 
 @layer base {
   .animate-hover-scale {
-    @apply text-white/30 text-[24px] font-bold hover:text-white  transition-all duration-300 hover:text-[32px] hover:underline focus:text-white focus:text-[32px] focus:underline;
+    @apply text-white/30 text-[24px] font-bold hover:text-white  transition-all duration-300 hover:text-[32px]  focus:text-white focus:text-[32px];
   }
   .flex-center {
     @apply flex justify-center items-center;
