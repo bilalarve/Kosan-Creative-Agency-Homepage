@@ -1,8 +1,8 @@
-5365
+5367
 97E:\Belajar Coding\tailwind-test\node_modules\caniuse-lite\data\features\form-submit-attributes.js133079970890958717 0
 90E:\Belajar Coding\tailwind-test\node_modules\@parcel\optimizer-htmlnano\src\svgMappings.js133079970832359555 0
 74E:\Belajar Coding\tailwind-test\node_modules\entities\lib\encode-trie.d.ts133079970849705554 0
-44E:\Belajar Coding\tailwind-test\package.json133079984878826964 0
+44E:\Belajar Coding\tailwind-test\package.json133080516830707908 0
 90E:\Belajar Coding\tailwind-test\node_modules\htmlnano\lib\modules\removeEmptyAttributes.js133079970849369315 0
 71E:\Belajar Coding\tailwind-test\node_modules\yaml\browser\dist\index.js133079970834399377 0
 76E:\Belajar Coding\tailwind-test\node_modules\caniuse-lite\data\regions\KR.js133079970897701190 0
@@ -31,7 +31,7 @@
 62E:\Belajar Coding\tailwind-test\node_modules\has-flag\index.js133079970827297796 0
 79E:\Belajar Coding\tailwind-test\node_modules\@parcel\packager-js\lib\helpers.js133079970841771832 0
 80E:\Belajar Coding\tailwind-test\node_modules\source-map\dist\source-map.debug.js133079970847869107 0
-36E:\Belajar Coding\tailwind-test\dist133079982658726292 1
+36E:\Belajar Coding\tailwind-test\dist133080521870506380 1
 54E:\Belajar Coding\tailwind-test\node_modules\@mischnic133079970803005151 1
 76E:\Belajar Coding\tailwind-test\node_modules\css-tree\lib\tokenizer\utils.js133079970875136401 0
 62E:\Belajar Coding\tailwind-test\node_modules\svgo\lib\style.js133079970865119300 0
@@ -111,7 +111,7 @@
 93E:\Belajar Coding\tailwind-test\node_modules\htmlnano\lib\modules\normalizeAttributeValues.js133079970848270414 0
 45E:\Belajar Coding\tailwind-test\src\index.css133079971422232124 0
 83E:\Belajar Coding\tailwind-test\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map133079970841887038 0
-46E:\Belajar Coding\tailwind-test\src\index.html133079967514484073 0
+46E:\Belajar Coding\tailwind-test\src\index.html133080520507825277 0
 65E:\Belajar Coding\tailwind-test\node_modules\postcss\package.json133079970850732872 0
 75E:\Belajar Coding\tailwind-test\node_modules\yaml\browser\dist\package.json133079970861490408 0
 67E:\Belajar Coding\tailwind-test\node_modules\nanoid\async\index.cjs133079970829316246 0
@@ -585,7 +585,7 @@
 86E:\Belajar Coding\tailwind-test\node_modules\caniuse-lite\data\features\ol-reversed.js133079970902560994 0
 83E:\Belajar Coding\tailwind-test\node_modules\term-size\vendor\windows\term-size.exe133079970832846716 0
 85E:\Belajar Coding\tailwind-test\node_modules\@parcel\transformer-js\native-browser.js133079970836452030 0
-56E:\Belajar Coding\tailwind-test\dist\paypal.78799994.svg133079982657166295 0
+56E:\Belajar Coding\tailwind-test\dist\paypal.78799994.svg133079992270763955 0
 78E:\Belajar Coding\tailwind-test\node_modules\css-select\lib\procedure.d.ts.map133079970848215009 0
 91E:\Belajar Coding\tailwind-test\node_modules\@swc\helpers\lib\_skip_first_generator_next.js133079970863803999 0
 82E:\Belajar Coding\tailwind-test\node_modules\terser\node_modules\commander\typings133079970833398653 1
@@ -952,6 +952,7 @@
 77E:\Belajar Coding\tailwind-test\node_modules\resolve\test\pathfilter\deep_ref133079970863657928 1
 59E:\Belajar Coding\tailwind-test\node_modules\semver\LICENSE133079970822534135 0
 87E:\Belajar Coding\tailwind-test\node_modules\caniuse-lite\data\features\offline-apps.js133079970902474811 0
+59E:\Belajar Coding\tailwind-test\dist\index.ab094e6a.css.map133080521870496373 0
 62E:\Belajar Coding\tailwind-test\node_modules\semver\bin\semver133079970824938951 0
 66E:\Belajar Coding\tailwind-test\node_modules\@parcel\css\README.md133079970827498437 0
 69E:\Belajar Coding\tailwind-test\node_modules\entities\lib\decode.d.ts133079970849304192 0
@@ -1070,7 +1071,7 @@
 75E:\Belajar Coding\tailwind-test\node_modules\node-addon-api\tools\README.md133079970848531352 0
 87E:\Belajar Coding\tailwind-test\node_modules\json-parse-even-better-errors\CHANGELOG.md133079970827252350 0
 64E:\Belajar Coding\tailwind-test\node_modules\weak-lru-cache\dist133079970822484094 1
-51E:\Belajar Coding\tailwind-test\dist\k.8f2bcdb4.svg133079982658651148 0
+51E:\Belajar Coding\tailwind-test\dist\k.8f2bcdb4.svg133079992271573800 0
 92E:\Belajar Coding\tailwind-test\node_modules\caniuse-lite\data\features\fieldset-disabled.js133079970890215069 0
 77E:\Belajar Coding\tailwind-test\node_modules\tailwindcss\src\util\defaults.js133079970864059962 0
 58E:\Belajar Coding\tailwind-test\node_modules\@parcel\types133079970833057522 1
@@ -1521,7 +1522,7 @@
 72E:\Belajar Coding\tailwind-test\node_modules\tailwindcss\src\util\log.js133079970877024240 0
 93E:\Belajar Coding\tailwind-test\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.mjs.map133079970830646868 0
 80E:\Belajar Coding\tailwind-test\node_modules\svgo\plugins\removeEditorsNSData.js133079970860441035 0
-57E:\Belajar Coding\tailwind-test\dist\favicon.44e7607c.ico133079982638549976 0
+57E:\Belajar Coding\tailwind-test\dist\favicon.44e7607c.ico133079992248740235 0
 66E:\Belajar Coding\tailwind-test\node_modules\chokidar\node_modules133079970803162487 1
 81E:\Belajar Coding\tailwind-test\node_modules\mdn-data\api\inheritance.schema.json133079970842577232 0
 78E:\Belajar Coding\tailwind-test\node_modules\tailwindcss\src\util\nameClass.js133079970877697430 0
@@ -2112,6 +2113,7 @@
 71E:\Belajar Coding\tailwind-test\node_modules\resolve\test\shadowed_core133079970863051721 1
 93E:\Belajar Coding\tailwind-test\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs.map133079970829562303 0
 66E:\Belajar Coding\tailwind-test\node_modules\browserslist\parse.js133079970834836005 0
+55E:\Belajar Coding\tailwind-test\dist\index.ab094e6a.css133080521870416367 0
 68E:\Belajar Coding\tailwind-test\node_modules\resolve\test\subdirs.js133079970867154258 0
 91E:\Belajar Coding\tailwind-test\node_modules\caniuse-lite\data\features\css-focus-within.js133079970882010229 0
 94E:\Belajar Coding\tailwind-test\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133079970865677436 0
@@ -4058,7 +4060,7 @@
 85E:\Belajar Coding\tailwind-test\node_modules\@parcel\source-map\parcel_sourcemap_node133079970868067830 1
 86E:\Belajar Coding\tailwind-test\node_modules\caniuse-lite\data\features\input-range.js133079970895020600 0
 90E:\Belajar Coding\tailwind-test\node_modules\caniuse-lite\data\features\insert-adjacent.js133079970895130901 0
-58E:\Belajar Coding\tailwind-test\dist\afterpay.1bb020e3.svg133079982657166295 0
+58E:\Belajar Coding\tailwind-test\dist\afterpay.1bb020e3.svg133079992270763955 0
 98E:\Belajar Coding\tailwind-test\node_modules\caniuse-lite\data\features\intersectionobserver-v2.js133079970895573805 0
 86E:\Belajar Coding\tailwind-test\node_modules\caniuse-lite\data\features\pointerlock.js133079970903339081 0
 91E:\Belajar Coding\tailwind-test\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js133079970825786787 0
@@ -4675,7 +4677,7 @@
 94E:\Belajar Coding\tailwind-test\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js133079970843606543 0
 95E:\Belajar Coding\tailwind-test\node_modules\@parcel\runtime-js\src\helpers\node\html-loader.js133079970846964906 0
 95E:\Belajar Coding\tailwind-test\node_modules\@parcel\runtime-js\src\helpers\node\wasm-loader.js133079970856651610 0
-54E:\Belajar Coding\tailwind-test\dist\bg-3.25571b7f.svg133079982658651148 0
+54E:\Belajar Coding\tailwind-test\dist\bg-3.25571b7f.svg133079992271589043 0
 97E:\Belajar Coding\tailwind-test\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js133079970842314523 0
 102E:\Belajar Coding\tailwind-test\node_modules\@parcel\runtime-js\src\helpers\browser\import-polyfill.js133079970848260411 0
 96E:\Belajar Coding\tailwind-test\node_modules\@parcel\runtime-js\src\helpers\browser\js-loader.js133079970849944920 0
@@ -4725,7 +4727,7 @@
 63E:\Belajar Coding\tailwind-test\node_modules\@parcel\plugin\src133079970831213525 1
 105E:\Belajar Coding\tailwind-test\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json133079970883915244 0
 76E:\Belajar Coding\tailwind-test\node_modules\@parcel\plugin\src\PluginAPI.js133079970828120377 0
-59E:\Belajar Coding\tailwind-test\dist\index.c3d0c2bc.css.map133079982658716252 0
+59E:\Belajar Coding\tailwind-test\dist\index.c3d0c2bc.css.map133079992271704789 0
 69E:\Belajar Coding\tailwind-test\node_modules\@parcel\packager-svg\lib133079970824778426 1
 73E:\Belajar Coding\tailwind-test\node_modules\@parcel\packager-svg\LICENSE133079970823066761 0
 78E:\Belajar Coding\tailwind-test\node_modules\@parcel\packager-svg\package.json133079970829898133 0
@@ -5334,27 +5336,27 @@
 61E:\Belajar Coding\tailwind-test\node_modules\.bin\tailwindcss133079970910331021 0
 65E:\Belajar Coding\tailwind-test\node_modules\.bin\tailwindcss.ps1133079970910330342 0
 60E:\Belajar Coding\tailwind-test\node_modules\.bin\terser.ps1133079970910361149 0
-55E:\Belajar Coding\tailwind-test\dist\adobe.16c0a601.svg133079982657166295 0
+55E:\Belajar Coding\tailwind-test\dist\adobe.16c0a601.svg133079992270763955 0
 55E:\Belajar Coding\tailwind-test\dist\adobe.da0c4869.svg133079974687375010 0
-56E:\Belajar Coding\tailwind-test\dist\amazon.75a8fe7a.svg133079982658651148 0
+56E:\Belajar Coding\tailwind-test\dist\amazon.75a8fe7a.svg133079992271589043 0
 56E:\Belajar Coding\tailwind-test\dist\amazon.cc52df5c.svg133079974687187880 0
-61E:\Belajar Coding\tailwind-test\dist\arrow-right.44213241.svg133079982658651148 0
+61E:\Belajar Coding\tailwind-test\dist\arrow-right.44213241.svg133079992271589043 0
 61E:\Belajar Coding\tailwind-test\dist\arrow-right.e2f597ab.svg133079974687222985 0
-54E:\Belajar Coding\tailwind-test\dist\bg-2.a6c455de.svg133079982658651148 0
+54E:\Belajar Coding\tailwind-test\dist\bg-2.a6c455de.svg133079992271589043 0
 54E:\Belajar Coding\tailwind-test\dist\bg-2.b86fbc33.svg133079974687394979 0
 57E:\Belajar Coding\tailwind-test\dist\favicon.eee7a1e8.ico133079974686432582 0
-55E:\Belajar Coding\tailwind-test\dist\figma.612e8b3f.svg133079982658651148 0
+55E:\Belajar Coding\tailwind-test\dist\figma.612e8b3f.svg133079992271563796 0
 55E:\Belajar Coding\tailwind-test\dist\figma.99e01a83.svg133079974687177872 0
-54E:\Belajar Coding\tailwind-test\dist\foto.7cc9b029.png133079982653726887 0
-56E:\Belajar Coding\tailwind-test\dist\github.24b8f2db.svg133079982658651148 0
+54E:\Belajar Coding\tailwind-test\dist\foto.7cc9b029.png133079992267422603 0
+56E:\Belajar Coding\tailwind-test\dist\github.24b8f2db.svg133079992271563796 0
 56E:\Belajar Coding\tailwind-test\dist\github.46d7532f.svg133079974687177872 0
-55E:\Belajar Coding\tailwind-test\dist\index.61d3354a.css133079974687187880 0
-59E:\Belajar Coding\tailwind-test\dist\index.61d3354a.css.map133079974687404967 0
-55E:\Belajar Coding\tailwind-test\dist\index.c3d0c2bc.css133079982658651148 0
-47E:\Belajar Coding\tailwind-test\dist\index.html133079982658651148 0
+55E:\Belajar Coding\tailwind-test\dist\index.61d3354a.css133080520512725300 0
+59E:\Belajar Coding\tailwind-test\dist\index.61d3354a.css.map133080520512755291 0
+55E:\Belajar Coding\tailwind-test\dist\index.c3d0c2bc.css133079992271599124 0
+47E:\Belajar Coding\tailwind-test\dist\index.html133080521870416367 0
 62E:\Belajar Coding\tailwind-test\dist\tailwind-test.59712999.js133079981124983194 0
 66E:\Belajar Coding\tailwind-test\dist\tailwind-test.59712999.js.map133079981125058351 0
-55E:\Belajar Coding\tailwind-test\dist\toggl.3531a000.svg133079982657166295 0
+55E:\Belajar Coding\tailwind-test\dist\toggl.3531a000.svg133079992270763955 0
 51E:\Belajar Coding\tailwind-test\assets\afterpay.svg133079619836019051 0
 49E:\Belajar Coding\tailwind-test\assets\amazon.svg133079619836199063 0
 47E:\Belajar Coding\tailwind-test\assets\bg-2.svg133079883499915423 0

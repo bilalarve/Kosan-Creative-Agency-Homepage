@@ -309,6 +309,10 @@ h1 {
   margin-top: 50px;
 }
 
+.mt-\[140px\] {
+  margin-top: 140px;
+}
+
 .flex {
   display: flex;
 }
@@ -343,6 +347,10 @@ h1 {
 
 .max-w-\[350px\] {
   max-width: 350px;
+}
+
+.max-w-max {
+  max-width: max-content;
 }
 
 .grid-cols-12 {
