@@ -11,10 +11,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "parcel": "^2.7.0"
-  },
   "devDependencies": {
+    "parcel": "^2.7.0",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
   }
